@@ -1,0 +1,67 @@
+PODS:
+  - A2StoryboardSegueContext (1.0.1)
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - FMMoveTableView (1.1.2)
+  - RegexKitLite (4.0)
+  - SFHFKeychainUtils (0.0.1)
+  - TBXML (1.5)
+  - TouchJSON (1.1)
+
+DEPENDENCIES:
+  - A2StoryboardSegueContext
+  - AFNetworking (~> 2.0)
+  - BlocksKit (~> 2.2.5)
+  - FMMoveTableView
+  - RegexKitLite
+  - SFHFKeychainUtils
+  - TBXML
+  - TouchJSON
+
+SPEC CHECKSUMS:
+  A2StoryboardSegueContext: f7c59a413b4c4fe5920f8dbf06b0c970025ea57a
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  FMMoveTableView: 63b46cf806133f5220cf92592dc0e6f7eb07633d
+  RegexKitLite: c0e4c12e6e7de0769f3a3ed679f0f61604170661
+  SFHFKeychainUtils: 9576b411a79a058f4d5381ace6f3242b9a62e664
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+  TouchJSON: 39be3595ebe489095311d97ce0c824417324cb74
+
+PODFILE CHECKSUM: 209e0c4382f05b906f719e6fcd36640c1b3b7a1f
+
+COCOAPODS: 1.2.1
